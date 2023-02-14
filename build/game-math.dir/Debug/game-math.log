@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(169,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(174,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(322,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(322,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  game-math.vcxproj -> C:\DWGmathCourse\DwGGameMath-main\build\Debug\game-math.exe

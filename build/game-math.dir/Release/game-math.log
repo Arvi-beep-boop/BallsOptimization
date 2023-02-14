@@ -1,0 +1,8 @@
+﻿  dwgSimpleGraphics.cpp
+  main.cpp
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(171,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(176,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(325,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\DWGmathCourse\DwGGameMath-main\src\main.cpp(325,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  game-math.vcxproj -> C:\DWGmathCourse\DwGGameMath-main\build\Release\game-math.exe

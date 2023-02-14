@@ -1,0 +1,3 @@
+C:/DWGmathCourse/DwGGameMath-main/build/CMakeFiles/game-math.dir
+C:/DWGmathCourse/DwGGameMath-main/build/CMakeFiles/glad.dir
+C:/DWGmathCourse/DwGGameMath-main/build/CMakeFiles/ALL_BUILD.dir
